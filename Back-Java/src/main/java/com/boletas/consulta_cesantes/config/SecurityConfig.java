@@ -12,7 +12,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 @Configuration
 @EnableWebSecurity
 public class SecurityConfig {
-
+    //configuracion de seguridad de la web , bloqueando endpoints no disponibles
     @Autowired
     private JwtAuthenticationFilter jwtAuthenticationFilter;
 

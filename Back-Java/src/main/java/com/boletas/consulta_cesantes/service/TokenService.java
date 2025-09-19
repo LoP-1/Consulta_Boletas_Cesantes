@@ -1,7 +1,7 @@
 package com.boletas.consulta_cesantes.service;
 
-import com.boletas.consulta_cesantes.model.Token;
-import com.boletas.consulta_cesantes.model.Usuario;
+import com.boletas.consulta_cesantes.model.user.Token;
+import com.boletas.consulta_cesantes.model.user.Usuario;
 import com.boletas.consulta_cesantes.repository.TokenRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

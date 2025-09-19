@@ -1,4 +1,4 @@
-package com.boletas.consulta_cesantes.model;
+package com.boletas.consulta_cesantes.model.user;
 import jakarta.persistence.*;
 
 @Entity

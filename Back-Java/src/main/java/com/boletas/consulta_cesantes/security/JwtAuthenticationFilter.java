@@ -1,6 +1,6 @@
 package com.boletas.consulta_cesantes.security;
 
-import com.boletas.consulta_cesantes.model.Token;
+import com.boletas.consulta_cesantes.model.user.Token;
 import com.boletas.consulta_cesantes.service.TokenService;
 import com.boletas.consulta_cesantes.service.UsuarioService;
 import org.springframework.beans.factory.annotation.Autowired;

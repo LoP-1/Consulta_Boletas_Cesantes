@@ -1,0 +1,647 @@
+[
+  {
+    "Entidad": "UGEL CHUPACA",
+    "RUC": "20188468706",
+    "Codigo_Modular": "1020418605",
+    "Fecha_Boleta": "RUC - 2018",
+    "Tipo": "CES/TIT",
+    "Apellidos": "CHUCOS PEINADO",
+    "Nombres": "CARLOS ENRIQUE",
+    "Fecha_Nacimiento": "20/03/1946",
+    "Documento": "(Lib.Electoral o D.N.) 20418605",
+    "Cargo": "PROF. DE AULA",
+    "Tipo_Pensionista": "CESANTE",
+    "Tipo_Pension": "CESANTE DOC. NIVELABLE",
+    "NivMag_Grupo_Horas": "4/0-0/30",
+    "Tiempo_Servicio": "32-01-25",
+    "ESSALUD": "4603201CCTNC007",
+    "Fecha_Cese": "30/12/2007",
+    "Cuenta": "CTA- 4381593644",
+    "Leyenda_Permanente": "r.d.0702/2007",
+    "Leyenda_Mensual": "",
+    "Haberes": [],
+    "Descuentos": [
+      {
+        "nombre": "REMUN",
+        "valor": 879.82
+      },
+      {
+        "nombre": "DSCTO",
+        "valor": 43.52
+      },
+      {
+        "nombre": "LIQUI",
+        "valor": 836.3
+      }
+    ],
+    "Totales": {
+      "T_REMUN": 879.82,
+      "T_DSCTO": 43.52,
+      "T_LIQUI": 836.3,
+      "MImponible": 838.0
+    },
+    "Mensaje": "Visite la pagina Web del Ministerio de Educaci n: www.minedu.gob.pe."
+  },
+  {
+    "Entidad": "UGEL CHUPACA",
+    "RUC": "20188468706",
+    "Codigo_Modular": "1019906254",
+    "Fecha_Boleta": "RUC - 2018",
+    "Tipo": "CES/TIT",
+    "Apellidos": "GALVAN CAMARGO",
+    "Nombres": "JESUS TOMAS",
+    "Fecha_Nacimiento": "25/03/1948",
+    "Documento": "(Lib.Electoral o D.N.) 19906254",
+    "Cargo": "PROF. DE AULA",
+    "Tipo_Pensionista": "CESANTE",
+    "Tipo_Pension": "CESANTE DOC. NIVELABLE",
+    "NivMag_Grupo_Horas": "3/0-0/30",
+    "Tiempo_Servicio": "34-00-00",
+    "ESSALUD": "4803251GVCAJ006",
+    "Fecha_Cese": "05/05/2008",
+    "Cuenta": "CTA- 4381594799",
+    "Leyenda_Permanente": "100%",
+    "Leyenda_Mensual": "",
+    "Haberes": [],
+    "Descuentos": [
+      {
+        "nombre": "REMUN",
+        "valor": 858.96
+      },
+      {
+        "nombre": "DSCTO",
+        "valor": 32.68
+      },
+      {
+        "nombre": "LIQUI",
+        "valor": 826.28
+      }
+    ],
+    "Totales": {
+      "T_REMUN": 858.96,
+      "T_DSCTO": 32.68,
+      "T_LIQUI": 826.28,
+      "MImponible": 817.0
+    },
+    "Mensaje": "Visite la pagina Web del Ministerio de Educaci n: www.minedu.gob.pe."
+  },
+  {
+    "Entidad": "UGEL CHUPACA",
+    "RUC": "20188468706",
+    "Codigo_Modular": "1019864056",
+    "Fecha_Boleta": "RUC - 2018",
+    "Tipo": "CES/TIT",
+    "Apellidos": "GALVAN ROJAS",
+    "Nombres": "JOSE ALEJANDRO",
+    "Fecha_Nacimiento": "17/03/1957",
+    "Documento": "(Lib.Electoral o D.N.) 19864056",
+    "Cargo": "PROF. POR HORA",
+    "Tipo_Pensionista": "CESANTE",
+    "Tipo_Pension": "CESANTE DOC. NIVELABLE",
+    "NivMag_Grupo_Horas": "4/0-0/24",
+    "Tiempo_Servicio": "29-02-25",
+    "ESSALUD": "5703171GVRAJ008",
+    "Fecha_Cese": "12/08/2005",
+    "Cuenta": "CTA- 4381594810",
+    "Leyenda_Permanente": "PENSION 100%",
+    "Leyenda_Mensual": "",
+    "Haberes": [],
+    "Descuentos": [
+      {
+        "nombre": "REMUN",
+        "valor": 858.96
+      },
+      {
+        "nombre": "DSCTO",
+        "valor": 32.68
+      },
+      {
+        "nombre": "LIQUI",
+        "valor": 826.28
+      }
+    ],
+    "Totales": {
+      "T_REMUN": 858.96,
+      "T_DSCTO": 32.68,
+      "T_LIQUI": 826.28,
+      "MImponible": 817.0
+    },
+    "Mensaje": "Visite la pagina Web del Ministerio de Educaci n: www.minedu.gob.pe."
+  },
+  {
+    "Entidad": "UGEL CHUPACA",
+    "RUC": "20188468706",
+    "Codigo_Modular": "1021088331",
+    "Fecha_Boleta": "RUC - 2018",
+    "Tipo": "CES/TIT",
+    "Apellidos": "GUERRERO ESPINOZA",
+    "Nombres": "ELISEO RUBEN",
+    "Fecha_Nacimiento": "14/06/1956",
+    "Documento": "(Lib.Electoral o D.N.) 21088331",
+    "Cargo": "PROF. DE AULA",
+    "Tipo_Pensionista": "CESANTE",
+    "Tipo_Pension": "CESANTE DOC. NIVELABLE",
+    "NivMag_Grupo_Horas": "3/0-0/30",
+    "Tiempo_Servicio": "27-03-17",
+    "ESSALUD": "5606191GREIE004",
+    "Fecha_Cese": "01/09/2004",
+    "Cuenta": "CTA- 4381595078",
+    "Leyenda_Permanente": "RDUGELCH 534-05",
+    "Leyenda_Mensual": "",
+    "Haberes": [],
+    "Descuentos": [
+      {
+        "nombre": "REMUN",
+        "valor": 842.93
+      },
+      {
+        "nombre": "DSCTO",
+        "valor": 504.19
+      },
+      {
+        "nombre": "LIQUI",
+        "valor": 338.74
+      }
+    ],
+    "Totales": {
+      "T_REMUN": 842.93,
+      "T_DSCTO": 504.19,
+      "T_LIQUI": 338.74,
+      "MImponible": 813.0
+    },
+    "Mensaje": "Visite la pagina Web del Ministerio de Educaci n: www.minedu.gob.pe."
+  },
+  {
+    "Entidad": "UGEL CHUPACA",
+    "RUC": "20188468706",
+    "Codigo_Modular": "1019935092",
+    "Fecha_Boleta": "RUC - 2018",
+    "Tipo": "CES/TIT",
+    "Apellidos": "LAZO LAZO",
+    "Nombres": "ROLANDA TERESA",
+    "Fecha_Nacimiento": "24/11/1953",
+    "Documento": "(Lib.Electoral o D.N.) 19935092",
+    "Cargo": "PROF. DE AULA",
+    "Tipo_Pensionista": "CESANTE",
+    "Tipo_Pension": "CESANTE DOC. NIVELABLE",
+    "NivMag_Grupo_Horas": "4/0-0/30",
+    "Tiempo_Servicio": "30-00-00",
+    "ESSALUD": "5311240LOLOR004",
+    "Fecha_Cese": "04/03/2008",
+    "Cuenta": "CTA- 4381596201",
+    "Leyenda_Permanente": "CESANTE",
+    "Leyenda_Mensual": "",
+    "Haberes": [],
+    "Descuentos": [
+      {
+        "nombre": "REMUN",
+        "valor": 816.25
+      },
+      {
+        "nombre": "DSCTO",
+        "valor": 437.09
+      },
+      {
+        "nombre": "LIQUI",
+        "valor": 379.16
+      }
+    ],
+    "Totales": {
+      "T_REMUN": 816.25,
+      "T_DSCTO": 437.09,
+      "T_LIQUI": 379.16,
+      "MImponible": 776.0
+    },
+    "Mensaje": "Visite la pagina Web del Ministerio de Educaci n: www.minedu.gob.pe."
+  },
+  {
+    "Entidad": "UGEL CHUPACA",
+    "RUC": "20188468706",
+    "Codigo_Modular": "1019822373",
+    "Fecha_Boleta": "RUC - 2018",
+    "Tipo": "CES/TIT",
+    "Apellidos": "LIZARRAGA DE SULCA",
+    "Nombres": "NELLY GLICERIA",
+    "Fecha_Nacimiento": "31/08/1937",
+    "Documento": "(Lib.Electoral o D.N.) 19822373",
+    "Cargo": "PROF. POR HORA",
+    "Tipo_Pensionista": "CESANTE",
+    "Tipo_Pension": "CESANTE DOC. NIVELABLE",
+    "NivMag_Grupo_Horas": "4/0-0/24",
+    "Tiempo_Servicio": "30-01-01",
+    "ESSALUD": "Fecha",
+    "Fecha_Cese": "01/01/2000",
+    "Cuenta": "CTA- 4381596406",
+    "Leyenda_Permanente": "100  %",
+    "Leyenda_Mensual": "",
+    "Haberes": [],
+    "Descuentos": [
+      {
+        "nombre": "REMUN",
+        "valor": 852.86
+      },
+      {
+        "nombre": "DSCTO",
+        "valor": 32.44
+      },
+      {
+        "nombre": "LIQUI",
+        "valor": 820.42
+      }
+    ],
+    "Totales": {
+      "T_REMUN": 852.86,
+      "T_DSCTO": 32.44,
+      "T_LIQUI": 820.42,
+      "MImponible": 811.0
+    },
+    "Mensaje": "Visite la pagina Web del Ministerio de Educaci n: www.minedu.gob.pe."
+  },
+  {
+    "Entidad": "UGEL CHUPACA",
+    "RUC": "20188468706",
+    "Codigo_Modular": "1019906748",
+    "Fecha_Boleta": "RUC - 2018",
+    "Tipo": "CES/TIT",
+    "Apellidos": "LLANCACHAGUA HUACCHO",
+    "Nombres": "GUILLERMO AMANCIO",
+    "Fecha_Nacimiento": "10/02/1950",
+    "Documento": "(Lib.Electoral o D.N.) 19906748",
+    "Cargo": "PROF. POR HORA",
+    "Tipo_Pensionista": "CESANTE",
+    "Tipo_Pension": "CESANTE DOC. NIVELABLE",
+    "NivMag_Grupo_Horas": "5/0-0/24",
+    "Tiempo_Servicio": "37-03-24",
+    "ESSALUD": "5002101lLNHG008",
+    "Fecha_Cese": "12/07/2006",
+    "Cuenta": "CTA- 4381596430",
+    "Leyenda_Permanente": "CESE RD 623-06 UGECH.",
+    "Leyenda_Mensual": "",
+    "Haberes": [],
+    "Descuentos": [
+      {
+        "nombre": "REMUN",
+        "valor": 808.28
+      },
+      {
+        "nombre": "DSCTO",
+        "valor": 31.12
+      },
+      {
+        "nombre": "LIQUI",
+        "valor": 777.16
+      }
+    ],
+    "Totales": {
+      "T_REMUN": 808.28,
+      "T_DSCTO": 31.12,
+      "T_LIQUI": 777.16,
+      "MImponible": 778.0
+    },
+    "Mensaje": "Visite la pagina Web del Ministerio de Educaci n: www.minedu.gob.pe."
+  },
+  {
+    "Entidad": "UGEL CHUPACA",
+    "RUC": "20188468706",
+    "Codigo_Modular": "1019864052",
+    "Fecha_Boleta": "RUC - 2018",
+    "Tipo": "CES/TIT",
+    "Apellidos": "MEZA SOCUALAYA",
+    "Nombres": "MAURO DARIO",
+    "Fecha_Nacimiento": "19/12/1941",
+    "Documento": "(Lib.Electoral o D.N.) 19864052",
+    "Cargo": "PROF. DE AULA",
+    "Tipo_Pensionista": "CESANTE",
+    "Tipo_Pension": "CESANTE DOC. NIVELABLE",
+    "NivMag_Grupo_Horas": "A/0-0/30",
+    "Tiempo_Servicio": "30-06-21",
+    "ESSALUD": "411219",
+    "Fecha_Cese": "02/08/2005",
+    "Cuenta": "CTA- 4381597232",
+    "Leyenda_Permanente": "PENSION 100%",
+    "Leyenda_Mensual": "",
+    "Haberes": [],
+    "Descuentos": [
+      {
+        "nombre": "REMUN",
+        "valor": 831.32
+      },
+      {
+        "nombre": "DSCTO",
+        "valor": 618.32
+      },
+      {
+        "nombre": "LIQUI",
+        "valor": 213.0
+      }
+    ],
+    "Totales": {
+      "T_REMUN": 831.32,
+      "T_DSCTO": 618.32,
+      "T_LIQUI": 213.0,
+      "MImponible": 800.0
+    },
+    "Mensaje": "Visite la pagina Web del Ministerio de Educaci n: www.minedu.gob.pe."
+  },
+  {
+    "Entidad": "UGEL CHUPACA",
+    "RUC": "20188468706",
+    "Codigo_Modular": "1020081258",
+    "Fecha_Boleta": "RUC - 2018",
+    "Tipo": "CES/TIT",
+    "Apellidos": "MOLINA RAMOS",
+    "Nombres": "OSCAR AMANCIO",
+    "Fecha_Nacimiento": "18/07/1949",
+    "Documento": "(Lib.Electoral o D.N.) 20081258",
+    "Cargo": "PROF. DE AULA",
+    "Tipo_Pensionista": "CESANTE",
+    "Tipo_Pension": "CESANTE DOC. NIVELABLE",
+    "NivMag_Grupo_Horas": "4/0-0/30",
+    "Tiempo_Servicio": "27-03-13",
+    "ESSALUD": "4907181MIR00003",
+    "Fecha_Cese": "01/08/2004",
+    "Cuenta": "CTA- 4381473738",
+    "Leyenda_Permanente": "RDUGELCH 528-05",
+    "Leyenda_Mensual": "",
+    "Haberes": [],
+    "Descuentos": [
+      {
+        "nombre": "REMUN",
+        "valor": 840.13
+      },
+      {
+        "nombre": "DSCTO",
+        "valor": 153.99
+      },
+      {
+        "nombre": "LIQUI",
+        "valor": 686.14
+      }
+    ],
+    "Totales": {
+      "T_REMUN": 840.13,
+      "T_DSCTO": 153.99,
+      "T_LIQUI": 686.14,
+      "MImponible": 804.0
+    },
+    "Mensaje": "Visite la pagina Web del Ministerio de Educaci n: www.minedu.gob.pe."
+  },
+  {
+    "Entidad": "UGEL CHUPACA",
+    "RUC": "20188468706",
+    "Codigo_Modular": "1020073627",
+    "Fecha_Boleta": "RUC - 2018",
+    "Tipo": "CES/TIT",
+    "Apellidos": "PICHARDO ESPINAL",
+    "Nombres": "FELICIANA",
+    "Fecha_Nacimiento": "09/06/1954",
+    "Documento": "(Lib.Electoral o D.N.) 20073627",
+    "Cargo": "PROF. POR HORA",
+    "Tipo_Pensionista": "CESANTE",
+    "Tipo_Pension": "CESANTE DOC. NIVELABLE",
+    "NivMag_Grupo_Horas": "2/0-0/24",
+    "Tiempo_Servicio": "25-10-20",
+    "ESSALUD": "5406090PHEIF00",
+    "Fecha_Cese": "01/08/2006",
+    "Cuenta": "CTA- 4381433493",
+    "Leyenda_Permanente": "RD.0597-06-UGECH:Pdef.",
+    "Leyenda_Mensual": "",
+    "Haberes": [],
+    "Descuentos": [
+      {
+        "nombre": "REMUN",
+        "valor": 828.05
+      },
+      {
+        "nombre": "DSCTO",
+        "valor": 31.52
+      },
+      {
+        "nombre": "LIQUI",
+        "valor": 796.53
+      }
+    ],
+    "Totales": {
+      "T_REMUN": 828.05,
+      "T_DSCTO": 31.52,
+      "T_LIQUI": 796.53,
+      "MImponible": 788.0
+    },
+    "Mensaje": "Visite la pagina Web del Ministerio de Educaci n: www.minedu.gob.pe."
+  },
+  {
+    "Entidad": "UGEL CHUPACA",
+    "RUC": "20188468706",
+    "Codigo_Modular": "1019935558",
+    "Fecha_Boleta": "RUC - 2018",
+    "Tipo": "CES/TIT",
+    "Apellidos": "ROJAS PERALES",
+    "Nombres": "AMANDA YENEY",
+    "Fecha_Nacimiento": "02/06/1952",
+    "Documento": "(Lib.Electoral o D.N.) 19935558",
+    "Cargo": "PROF. DE AULA",
+    "Tipo_Pensionista": "CESANTE",
+    "Tipo_Pension": "CESANTE DOC. NIVELABLE",
+    "NivMag_Grupo_Horas": "3/0-0/30",
+    "Tiempo_Servicio": "27-00-00",
+    "ESSALUD": "Fecha",
+    "Fecha_Cese": "01/06/2007",
+    "Cuenta": "CTA- 4381600039",
+    "Leyenda_Permanente": "100%",
+    "Leyenda_Mensual": "",
+    "Haberes": [],
+    "Descuentos": [
+      {
+        "nombre": "REMUN",
+        "valor": 776.76
+      },
+      {
+        "nombre": "DSCTO",
+        "valor": 40.84
+      },
+      {
+        "nombre": "LIQUI",
+        "valor": 735.92
+      }
+    ],
+    "Totales": {
+      "T_REMUN": 776.76,
+      "T_DSCTO": 40.84,
+      "T_LIQUI": 735.92,
+      "MImponible": 746.0
+    },
+    "Mensaje": "Visite la pagina Web del Ministerio de Educaci n: www.minedu.gob.pe."
+  },
+  {
+    "Entidad": "UGEL CHUPACA",
+    "RUC": "20188468706",
+    "Codigo_Modular": "1019866675",
+    "Fecha_Boleta": "RUC - 2018",
+    "Tipo": "CES/TIT",
+    "Apellidos": "ROMERO DE CERRON",
+    "Nombres": "GLADYS MARITA",
+    "Fecha_Nacimiento": "11/05/1955",
+    "Documento": "(Lib.Electoral o D.N.) 19866675",
+    "Cargo": "PROF. DE AULA",
+    "Tipo_Pensionista": "CESANTE",
+    "Tipo_Pension": "CESANTE DOC. NIVELABLE",
+    "NivMag_Grupo_Horas": "3/0-0/30",
+    "Tiempo_Servicio": "25-00-00",
+    "ESSALUD": "5505110REQNG000",
+    "Fecha_Cese": "03/03/2008",
+    "Cuenta": "CTA- 4381600217",
+    "Leyenda_Permanente": "CESANTE RD 0201-08 ABRIL",
+    "Leyenda_Mensual": "",
+    "Haberes": [],
+    "Descuentos": [
+      {
+        "nombre": "REMUN",
+        "valor": 839.23
+      },
+      {
+        "nombre": "DSCTO",
+        "valor": 567.03
+      },
+      {
+        "nombre": "LIQUI",
+        "valor": 272.2
+      }
+    ],
+    "Totales": {
+      "T_REMUN": 839.23,
+      "T_DSCTO": 567.03,
+      "T_LIQUI": 272.2,
+      "MImponible": 797.0
+    },
+    "Mensaje": "Visite la pagina Web del Ministerio de Educaci n: www.minedu.gob.pe."
+  },
+  {
+    "Entidad": "UGEL CHUPACA",
+    "RUC": "20188468706",
+    "Codigo_Modular": "1019865168",
+    "Fecha_Boleta": "RUC - 2018",
+    "Tipo": "CES/TIT",
+    "Apellidos": "SALVADOR MEDINA",
+    "Nombres": "FILOMENO DEMETRIO",
+    "Fecha_Nacimiento": "29/11/1948",
+    "Documento": "(Lib.Electoral o D.N.) 19865168",
+    "Cargo": "PROF. DE AULA",
+    "Tipo_Pensionista": "CESANTE",
+    "Tipo_Pension": "CESANTE DOC. NIVELABLE",
+    "NivMag_Grupo_Horas": "4/0-0/30",
+    "Tiempo_Servicio": "30-10-20",
+    "ESSALUD": "4811291SVMIF009",
+    "Fecha_Cese": "01/06/2004",
+    "Cuenta": "CTA- 4381600470",
+    "Leyenda_Permanente": "RDUGELCH",
+    "Leyenda_Mensual": "",
+    "Haberes": [],
+    "Descuentos": [
+      {
+        "nombre": "REMUN",
+        "valor": 833.14
+      },
+      {
+        "nombre": "DSCTO",
+        "valor": 31.64
+      },
+      {
+        "nombre": "LIQUI",
+        "valor": 801.5
+      }
+    ],
+    "Totales": {
+      "T_REMUN": 833.14,
+      "T_DSCTO": 31.64,
+      "T_LIQUI": 801.5,
+      "MImponible": 791.0
+    },
+    "Mensaje": "Visite la pagina Web del Ministerio de Educaci n: www.minedu.gob.pe."
+  },
+  {
+    "Entidad": "UGEL CHUPACA",
+    "RUC": "20188468706",
+    "Codigo_Modular": "1020421571",
+    "Fecha_Boleta": "RUC - 2018",
+    "Tipo": "CES/TIT",
+    "Apellidos": "TAPIA ROJAS",
+    "Nombres": "RULFITA AGRIPINA",
+    "Fecha_Nacimiento": "24/06/1950",
+    "Documento": "(Lib.Electoral o D.N.) 20421571",
+    "Cargo": "DIRECTOR C.E",
+    "Tipo_Pensionista": "CESANTE",
+    "Tipo_Pension": "CESANTE DOC. NIVELABLE",
+    "NivMag_Grupo_Horas": "3/0-0/40",
+    "Tiempo_Servicio": "28-04-09",
+    "ESSALUD": "5006240TIRAR003",
+    "Fecha_Cese": "01/03/2006",
+    "Cuenta": "CTA- 4381601043",
+    "Leyenda_Permanente": "RD.119-06-UGELCHU.Pdef.",
+    "Leyenda_Mensual": "",
+    "Haberes": [],
+    "Descuentos": [
+      {
+        "nombre": "REMUN",
+        "valor": 858.96
+      },
+      {
+        "nombre": "DSCTO",
+        "valor": 32.68
+      },
+      {
+        "nombre": "LIQUI",
+        "valor": 826.28
+      }
+    ],
+    "Totales": {
+      "T_REMUN": 858.96,
+      "T_DSCTO": 32.68,
+      "T_LIQUI": 826.28,
+      "MImponible": 817.0
+    },
+    "Mensaje": "Visite la pagina Web del Ministerio de Educaci n: www.minedu.gob.pe."
+  },
+  {
+    "Entidad": "UGEL CHUPACA",
+    "RUC": "20188468706",
+    "Codigo_Modular": "1019858138",
+    "Fecha_Boleta": "RUC - 2018",
+    "Tipo": "CES/TIT",
+    "Apellidos": "TORRES CUBA",
+    "Nombres": "MAXIMO CESAR",
+    "Fecha_Nacimiento": "18/02/1942",
+    "Documento": "(Lib.Electoral o D.N.) 19858138",
+    "Cargo": "PROF. POR HORA",
+    "Tipo_Pensionista": "CESANTE",
+    "Tipo_Pension": "CESANTE DOC. NIVELABLE",
+    "NivMag_Grupo_Horas": "3/0-0/24",
+    "Tiempo_Servicio": "26-09-26",
+    "ESSALUD": "420218TECAM",
+    "Fecha_Cese": "01/08/2004",
+    "Cuenta": "CTA- 4381473231",
+    "Leyenda_Permanente": "RD 0797-06",
+    "Leyenda_Mensual": "",
+    "Haberes": [],
+    "Descuentos": [
+      {
+        "nombre": "REMUN",
+        "valor": 864.13
+      },
+      {
+        "nombre": "DSCTO",
+        "valor": 87.12
+      },
+      {
+        "nombre": "LIQUI",
+        "valor": 777.01
+      }
+    ],
+    "Totales": {
+      "T_REMUN": 864.13,
+      "T_DSCTO": 87.12,
+      "T_LIQUI": 777.01,
+      "MImponible": 823.0
+    },
+    "Mensaje": "Visite la pagina Web del Ministerio de Educaci n: www.minedu.gob.pe."
+  }
+]

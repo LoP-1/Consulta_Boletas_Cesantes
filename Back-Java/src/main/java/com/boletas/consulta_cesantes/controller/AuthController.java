@@ -1,8 +1,8 @@
 package com.boletas.consulta_cesantes.controller;
 
-import com.boletas.consulta_cesantes.model.Token;
-import com.boletas.consulta_cesantes.model.Usuario;
-import com.boletas.consulta_cesantes.model.Rol;
+import com.boletas.consulta_cesantes.model.user.Token;
+import com.boletas.consulta_cesantes.model.user.Usuario;
+import com.boletas.consulta_cesantes.model.user.Rol;
 import com.boletas.consulta_cesantes.service.TokenService;
 import com.boletas.consulta_cesantes.service.UsuarioService;
 import com.boletas.consulta_cesantes.security.JwtUtil;
@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Optional;
 
+//endpoints de acceso al sistema, manejo de tokens
 @RestController
 @RequestMapping("/auth")
 public class AuthController {

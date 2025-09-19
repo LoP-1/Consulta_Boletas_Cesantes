@@ -1,8 +1,6 @@
-package com.boletas.consulta_cesantes.model;
+package com.boletas.consulta_cesantes.model.user;
 
 import jakarta.persistence.*;
-
-import java.util.ArrayList;
 import java.util.List;
 
 @Entity
